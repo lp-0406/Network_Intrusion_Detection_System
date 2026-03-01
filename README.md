@@ -23,7 +23,7 @@
     <p><strong>College ID:</strong>160123729303 </p>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
+
 
 <h2 style="color:#333;">Course Details</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
@@ -32,7 +32,6 @@
     <p><strong>Duration:</strong> 6 months (July to January) </p>
 </div>
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;">Trainer Details</h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
@@ -43,7 +42,6 @@
 
 </div>
 
-<hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 ## Table of Contents
 
