@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-joblib
-numpy
-scikit-learn
-xgboost
-pydantic
-scikit-learn
-xgboost>=2.0.0
